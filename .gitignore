@@ -1,0 +1,7 @@
+*.out 
+*.exe 
+*.obj 
+*.lib 
+*.pdb 
+*.exp 
+crash-*
